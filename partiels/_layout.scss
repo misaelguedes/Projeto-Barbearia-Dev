@@ -265,6 +265,12 @@
 }
 
 @media screen and (max-width: 768px) {
+    .footer {
+        p {
+            font-size: 10px;
+        }
+    }
+    
     .btn-whatsapp {
         img {
             max-width: 64px;
